@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <!-- MOVIE LIST -->
+    <string name="image_description">Movie poster</string>
+    <string name="empty_view_message">Something went wrong!!\nThere are no movies to show :(</string>
+
+    <!-- MOVIE MENU -->
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+    <!-- MOVIE DETAIL -->
+    <string name="synopsis_title">OverView</string>
+
+    <!-- MOVIE API DETAIL -->
+    <string name="image_url">http://image.tmdb.org/t/p/w500%1$s</string>
+    <string name="url">https://api.themoviedb.org/3/movie/popular?api_key={YOUR API KEY HERE}&amp;language=en-US&amp;page=1</string>
+
+</resources>
